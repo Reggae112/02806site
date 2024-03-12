@@ -5,4 +5,4 @@ permalink: /page1/
 ---
 Hi this is my first graph
 
-![My image](/assets/output.png)
+![My image](assets\images\output.png)
