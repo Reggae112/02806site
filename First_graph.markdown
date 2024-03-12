@@ -3,6 +3,6 @@ layout: page
 title: First Graph
 permalink: /page1/
 ---
-Hi this is my first graph
+Hi this is my first  got damn graph why is it not working
 
-![My image](02806site.github.io\assets\images\output.png)
+![My image](_site\assets\images\Plot 3.png)
