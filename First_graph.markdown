@@ -5,4 +5,4 @@ permalink: /page1/
 ---
 Hi this is my first  got damn graph why is it not working
 
-![My image](_site\assets\images\Plot 3.png)
+![My image](plot 4.png)
