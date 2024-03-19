@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Viktors Data viz page
+title: DataViz
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  This page represents my cumbersome journey through the world of data vizualisation
