@@ -5,24 +5,37 @@ permalink: /page1/
 ---
 
 
+
 <figure markdown="span">
-    ![Header image](/San-Francisco.webp)
-    San Fransisco down town [Source](https://cdn.britannica.com/51/178051-050-3B786A55/San-Francisco.jpg){:target="_blank"}{:rel="noopener noreferrer"} 
+    ![Header image](/Scary_trend.png)
 </figure>
 
-## Main Title
+## Rise in forcible sexual offenses in the Bay Area
 
-#### Subtitle 1
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsums
+#### Introduction
+Since 2003 San fransisco has been keeping a registry of all reported crimes. This allows us to look into both trends ands specifics of the crime data, the dataset contains data about the crime categories as well as temporal and geographic data, all of which we will use to examine an intersting trend that San Fransisco is experiencing. When looking at the overall dataset, the rise of one particular crime type came to our eye: forcible sexual offenses. At a first glance, this crime type seems to consistently increase in numbers every year, so we decided to look closer and further examine the hypothesis that San Fransisco is indeed experiencing a rise in forcible sex offenses.
+![My image](/SC_trend.png)
 
-![My image](plot 4.png)
-
-#### Subtitle 2
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-
-![My image3](/output.png)
+#### Understanding the trend
+In the above figure, we clearly see how the amount of forcible sex offenses are on a steady climb, at a rate much higher than the general development of reported crimes. This begs the question, what is it that is driving this ever increasing amount? Is it because of increasing crime number or due to a larger focus on the crime type from both law enforcement and citizens which leads to increased reporting. Such concepts can be hard to analyze on a quantitative level, one way we can try to get more insight is to examine the development of sex offenses in a more broad spectrum and see if this is an isolated trend or whether its part of a bigger picture. In the figure below you can see a comparison between the different types of sex related offenses and how their relative amount of the total reported crimes has developed over the years. 
 
 #### Subtitle 3
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+{% include Final_map.html %}
+
+The map above shows the geographical distribution of forcible sex crimes for each of the years within the dataset. District borders have been highlighted and 
 
 ![My image3](plot 4.png)
+
+
+
+##### Reference Links
+
+[SF downtown image](https://cdn.britannica.com/51/178051-050-3B786A55/San-Francisco.jpg){:target="_blank"}{:rel="noopener noreferrer"}
+
+[Article [1]](https://hoodline.com/2024/03/san-francisco-man-convicted-for-sexual-assault-of-elderly-woman-faces-up-to-10-years/){:target="_blank"}{:rel="noopener noreferrer"}
+
+[Article [2]](https://www.cbsnews.com/sanfrancisco/news/san-francisco-man-horrific-child-sexual-assault-facing-50-years-to-life/){:target="_blank"}{:rel="noopener noreferrer"}
+
+[Article [3]](https://sfist.com/2015/11/24/sf_state_officials_refuse_to_commen/){:target="_blank"}{:rel="noopener noreferrer"}
+
+[Article [4]](https://www.eastbaytimes.com/2016/10/23/bay-area-colleges-keep-most-sexual-assault-reports-quiet/){:target="_blank"}{:rel="noopener noreferrer"}

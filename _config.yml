@@ -19,12 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: DataViz
-email: your-email@example.com
+email: 193981@dtu.student.dk
 description: >- # this means to ignore newlines until "baseurl:"
  This page represents my cumbersome journey through the world of data vizualisation
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  Regga112
+github_username:  Reggae112
 
 # Build settings
 theme: minima
