@@ -15,7 +15,7 @@ We are more than a little thrilled to be presenting our second assignment on thi
 
 
 
-[![Assignment 2 link](/Link%20image.png)](/page1/)
+[![Assignment 2 link](/Link_image.png)](/page1/)
 
 ### A little bonus content
 If you need a little break from data viz we recommend that you listen to Bob Dylans Visions of Johanna. It is probably one of the greatest songs of all time. Here is a link to a 1966 live recording:
