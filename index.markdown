@@ -21,5 +21,3 @@ We are more than a little thrilled to be presenting our second assignment on thi
 If you need a little break from data viz we recommend that you listen to Bob Dylans Visions of Johanna. It is probably one of the greatest songs of all time. Here is a link to a 1966 live recording:
 
 {% include youtubePlayer.html id=page.youtubeId %}
-
-[Visions of Johanna link](https://www.youtube.com/watch?v=uW9_2r3raHE){:target="_blank"}{:rel="noopener noreferrer"}
