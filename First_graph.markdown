@@ -4,8 +4,6 @@ title: Assignment 2 - Investigation of SF crime Data
 permalink: /page1/
 ---
 
-
-
 <figure markdown="span">
     ![Header image](/Scary_trend.png)
 </figure>
@@ -19,12 +17,16 @@ Since 2003 San fransisco has been keeping a registry of all reported crimes. Thi
 #### Understanding the trend
 In the above figure, we clearly see how the amount of forcible sex offenses are on a steady climb, at a rate much higher than the general development of reported crimes. This begs the question, what is it that is driving this ever increasing amount? Is it because of increasing crime number or due to a larger focus on the crime type from both law enforcement and citizens which leads to increased reporting. Such concepts can be hard to analyze on a quantitative level, one way we can try to get more insight is to examine the development of sex offenses in a more broad spectrum and see if this is an isolated trend or whether its part of a bigger picture. In the figure below you can see a comparison between the different types of sex related offenses and how their relative amount of the total reported crimes has developed over the years. 
 
-#### Subtitle 3
+#### A look into the geography of sex crimes
 {% include Final_map.html %}
 
-The map above shows the geographical distribution of forcible sex crimes for each of the years within the dataset. District borders have been highlighted and 
+The map above shows the geographical distribution of forcible sex crimes for each of the years within the dataset. District borders have been highlighted and the number of total forcible sex offenses can be viewed by clicking on the district markers. When we view the map we see the same trend of increasing crimes. Although this seems to be the case across districts, there appears to be two hotspot(marked with red) areas with Tenderloin and its bordering districts and Mission having a much higher concentration of crimes and also showing steeper increases in crime numbers across time.
 
-![My image3](plot 4.png)
+
+
+#### Placeholder Bokeh plot
+{% include inter_plot.html %}
+
 
 
 
