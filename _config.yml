@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DataViz
-email: 193981@dtu.student.dk
+title: DTU 2806 DataViz
+email: 193981@dtu.student.dk, 193964@dtu.student.dk
 description: >- # this means to ignore newlines until "baseurl:"
- This page represents my cumbersome journey through the world of data vizualisation
+ This page represents our cumbersome journey through the world of data vizualisation
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Reggae112
 
