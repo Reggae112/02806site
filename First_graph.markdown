@@ -15,7 +15,7 @@ Since 2003, San Francisco has been keeping a registry of all reported crimes. Th
 ![My image](/SC_trend.png)
 
 #### Understanding the trend
-In the above figure, we clearly see how the amount of FSOs are on a steady climb, at a rate much higher than the general development of reported crimes. This begs the question, what is it that is driving this ever increasing amount? Is it because of increasing crime number or due to a larger focus on the crime type from both law enforcement and citizens which leads to increased reporting. Another question is whether this is the case for the whole of San Fransisco, or maybe only a subset of districts or neighbourhoods. In the section below we therefore try to examine any geographical trends in the development of FSOs in the Bay Area.
+In the above figure, we clearly see how the number of FSOs is on a steady climb, at a rate much higher than the general development of reported crimes. This begs the question, what is driving this ever-increasing number? Is it because of an increasing crime rate or due to a larger focus on the crime type from both law enforcement and citizens, which leads to increased reporting? Another question is whether this is the case for the whole of San Francisco, or maybe only a subset of districts or neighborhoods. In the section below, we therefore try to examine any geographical trends in the development of FSOs in the Bay Area.
 
 #### A look into the geography of forcible sex crimes
 {% include Final_map.html %}
@@ -27,7 +27,7 @@ Although the heat map provides a good visual overview of the development of FSOs
 
 #### Conclusion
 All in all, it is safe to say that San Francisco is suffering from an increase in FSOs, and that some areas are more affected than others. Districts like Mission and Southern have both a much higher number of FSOs and have also experienced a much higher increase in FSOs across time compared to areas like Bayview and Richmond. It is hard to conclusively come up with a reason for this, although it does appear as if areas with more partying have a higher rate of FSOs. For future investigations, it could be interesting to further investigate the partying hypothesis and see if FSOs are correlated with large holiday events like New Year's Eve or other temporal patterns. Similarly, San Francisco is known for being a university town, and looking into whether any patterns related to student behavior would be present in the data would be interesting. This is especially the case as San Francisco established a task force aimed at dealing with sexual assault in relation to schools and universities in April of 2016 [[7]](https://sfgov.org/dosw/sites/default/files/Safer%20Schools%20Sexual%20Assault%20Task%20Force%20Report.pdf){:target="_blank"}{:rel="noopener noreferrer"}
-.
+. That said, the proposed hypotheses are based on our interpretation of the data, and future work should include an in-depth evaluation of the significance of our observations based on spatial statistics, along with the pursuit of other possible explanations for the identified trends.
 
 
 #### Reference Links
