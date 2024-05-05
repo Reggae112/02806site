@@ -4,10 +4,6 @@ title: Final Assignment
 permalink: /page2/
 ---
 
-<figure markdown="span">
-    ![Header image](/Scary_trend.png)
-</figure>
-
 ## Rise in forcible sexual offenses in the Bay Area
 
 #### Introduction
