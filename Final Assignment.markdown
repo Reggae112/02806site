@@ -17,7 +17,7 @@ New York has expressed governmental aspirations to transition into a city with a
 #### Crime rate of the individual districts
 If we take a look at the data collected from counting stations across the city, we see that the city has experienced a drastic increase in bicycle commuters. Especially the years between 2013 and 2016 saw a rapid rise of numbers of cyclists. 
 
-![My image](/AADTINY.png)
+![My image](/counting_station_data.png)
 
 There is however an interesting development of 3 consecutive years of negative development from 2016-2019. If we compare this to the intuitive notion that numbers like this would more likely be on a steady climb, it begs the question if there might be something that we are missing. 
 If we look at survey data, for example the one presented in
@@ -40,16 +40,21 @@ Here we see how Brooklyn districts like Williamsburg and Brooklyn heights have e
 
 One thing is clear and that is that the number of bike parking possibilities has increaed over time. If you hover the mouse over a specific district the plot displays the name of the neighbourhood and the exact number of parkings established since 2000. This plot shows us that the investment in infrastructure is steadily rising, but is far from evenly distributed. Especially less affluent areas see little development compared to the high number of residents. 
 
-#### Crime rate of the individual districts
+#### Bike parkings per person 
+The previous plots didn't take into consideration the difference of populations of each of the districts. To mitigate this the data the plot below has normalized the data in terms of the population of the individual district by looking at the parking per person. Here we clearly see that some areas have a much higher ratio of bike per person. With Lower side Manhatten and Upper and West brooklyn, having many times higher ratio of parkings per person. 
+{% include Bike_per_person.html %}
+
+#### Bike crimes and the NYC
+Another interesting dimension is the geographical distribution of bicycle related crimes. Like for the amount of parking the number of bike theft is not nearly the same across town. We have analysed the number of reported bike crimes and how these are distributed in relation to the previous investigated districts. In the below plot, you can take a look at the different types of bicycle crime to see how they distribute themselves throughout the city. Try toggling the different types and see if you find anything interesting. Use the map to help in understanding how it distributes throughout the city. You might notice that some areas are overepresented. This begs the question whether these areas are just more crime stricken or that it might be because of lacking possibilities to find safe parking. Alternatively more streetside parking might also mean that bike theft is actually easiser as people are more prone to park their bikes on the streets where they can be potentially stolen. Or again there might just be that mamy more bikes in areas with proper bike parkings and therefore also many more stolen bikes.
+
+{% crime_plot.html %}
+
+When we look at how the bike crimes distribute themselves geographically across the city seen on the map below, which shows the total number of crimes - that is Grand, petite and robberies combined. We see that it does look slightly familiar to the ones displaying the ratio of bike parking per person. Again whether this is due to more bikes in general or more bikes available for thieving due to outside parking is difficult to say.
 
 {% include Bike_theft.html %}
 
-
-#### Crime rate of the individual districts
-Although the heat map provides a good visual overview of the development of FSOs across time, it can be difficult to accurately tell how large an increase a given district has experienced and how the different years compare. The plot below therefore shows the development in FSOs of each district along with a trendline summarizing the development in FSO crimes across time. The plot is interactive, and each individual district can be turned on and off by clicking on its corresponding legend. When looking at the plot, we can first of all see that all trendline slopes are positive, confirming our impression of an upward trend in FSOs. Similarly, we also see some areas experiencing a much higher rate of increase in FSOs, with Mission having a more than 10 times higher increase rate than Richmond. dsf
-{% include crime_plot.html %}
-
-
+#### 
+![My image](/parking_request.png)
 
 
 ![My image](/polar_plot.png)
