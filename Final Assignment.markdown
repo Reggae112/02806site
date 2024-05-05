@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assignment 2
-permalink: /page1/
+title: Final Assignment
+permalink: /page2/
 ---
 
 <figure markdown="span">
