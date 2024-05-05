@@ -47,14 +47,28 @@ The previous plots didn't take into consideration the difference of populations 
 #### Bike crimes and the NYC
 Another interesting dimension is the geographical distribution of bicycle related crimes. Like for the amount of parking the number of bike theft is not nearly the same across town. We have analysed the number of reported bike crimes and how these are distributed in relation to the previous investigated districts. In the below plot, you can take a look at the different types of bicycle crime to see how they distribute themselves throughout the city. Try toggling the different types and see if you find anything interesting. Use the map to help in understanding how it distributes throughout the city. You might notice that some areas are overepresented. This begs the question whether these areas are just more crime stricken or that it might be because of lacking possibilities to find safe parking. Alternatively more streetside parking might also mean that bike theft is actually easiser as people are more prone to park their bikes on the streets where they can be potentially stolen. Or again there might just be that mamy more bikes in areas with proper bike parkings and therefore also many more stolen bikes.
 
-{% crime_plot.html %}
+{% include crime_plot.html %}
 
 When we look at how the bike crimes distribute themselves geographically across the city seen on the map below, which shows the total number of crimes - that is Grand, petite and robberies combined. We see that it does look slightly familiar to the ones displaying the ratio of bike parking per person. Again whether this is due to more bikes in general or more bikes available for thieving due to outside parking is difficult to say.
 
 {% include Bike_theft.html %}
 
-#### 
+#### Are the NYC bikers satisfied?
+So now we have delved into how the number of bike parkings have increased through recent years - but is it enough to satisfy the demand of New Yorkers? One way to investigate this is diving into the logs of requests made to the city for in-building bicycle parking. 
+
 ![My image](/parking_request.png)
+
+What we see in the above plot, apart from the interesting seasonal pattern of requests peaking in the summer, is that the requests are approaching 0. This could indicate that the infrastructure investments have suceeded in filling the needs of many cititzens and as such the need for more in-building parking is decreasing. As such, the infrastructure investments seem to be effective. There are of course many unknown variables within this that we have not been able to cover, such as changes in the request process, whether the amount of eligible buildings has been used up etc.
+
+If we look at other types of data, for example survey data and data on erected bicycle parking facilities, it tells a different story. In the article, [The Power Of Bicycle Parking](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}, Transportation Alternatives describes several interesting aspects 
+
+Currently, there are over 100 times more car parking spaces than bicycle parking spaces, despite more residents owning bicycles than cars.
+This lack of parking discourages people from cycling, with it being the second most common reason people don't bike more.
+The deficit is especially impactful on low-income communities and communities of color, who are more likely to rely on bicycles for transportation and less likely to have access to secure storage.
+And as Oonee founder and CEO Shabazz Stuart says in an interview for the article  [State Bike Survey Shows Demand for Secure Parking at Transit Hubs by Dave Clon for Streets Blog NYC](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
+"It's not surprising, I don't know how much more data we need to reach the long overdue conclusion that secure and protected bike parking is essential to a viable cycling-as-transit ecosystem."
+
+
 
 
 ![My image](/polar_plot.png)
