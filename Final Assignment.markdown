@@ -16,11 +16,23 @@ permalink: /page2/
 Although the heat map provides a good visual overview of the development of FSOs across time, it can be difficult to accurately tell how large an increase a given district has experienced and how the different years compare. The plot below therefore shows the development in FSOs of each district along with a trendline summarizing the development in FSO crimes across time. The plot is interactive, and each individual district can be turned on and off by clicking on its corresponding legend. When looking at the plot, we can first of all see that all trendline slopes are positive, confirming our impression of an upward trend in FSOs. Similarly, we also see some areas experiencing a much higher rate of increase in FSOs, with Mission having a more than 10 times higher increase rate than Richmond. dsf
 {% include Bike_parkings.html %}
 
-{% include Bike counts.html %}
 
+#### Crime rate of the individual districts
+Although the heat map provides a good visual overview of the development of FSOs across time, it can be difficult to accurately tell how large an increase a given district has experienced and how the different years compare. The plot below therefore shows the development in FSOs of each district along with a trendline summarizing the development in FSO crimes across time. The plot is interactive, and each individual district can be turned on and off by clicking on its corresponding legend. When looking at the plot, we can first of all see that all trendline slopes are positive, confirming our impression of an upward trend in FSOs. Similarly, we also see some areas experiencing a much higher rate of increase in FSOs, with Mission having a more than 10 times higher increase rate than Richmond. dsf
+{% include Bike_counts.html %}
+
+
+#### Crime rate of the individual districts
+Although the heat map provides a good visual overview of the development of FSOs across time, it can be difficult to accurately tell how large an increase a given district has experienced and how the different years compare. The plot below therefore shows the development in FSOs of each district along with a trendline summarizing the development in FSO crimes across time. The plot is interactive, and each individual district can be turned on and off by clicking on its corresponding legend. When looking at the plot, we can first of all see that all trendline slopes are positive, confirming our impression of an upward trend in FSOs. Similarly, we also see some areas experiencing a much higher rate of increase in FSOs, with Mission having a more than 10 times higher increase rate than Richmond. dsf
 {% include Bike_theft.html %}
 
+
+#### Crime rate of the individual districts
+Although the heat map provides a good visual overview of the development of FSOs across time, it can be difficult to accurately tell how large an increase a given district has experienced and how the different years compare. The plot below therefore shows the development in FSOs of each district along with a trendline summarizing the development in FSO crimes across time. The plot is interactive, and each individual district can be turned on and off by clicking on its corresponding legend. When looking at the plot, we can first of all see that all trendline slopes are positive, confirming our impression of an upward trend in FSOs. Similarly, we also see some areas experiencing a much higher rate of increase in FSOs, with Mission having a more than 10 times higher increase rate than Richmond. dsf
 {% include crime_plot.html %}
+
+
+
 
 ![My image](/polar_plot.png)
 
