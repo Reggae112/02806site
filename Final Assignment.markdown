@@ -54,7 +54,7 @@ The previous plots didn't take into consideration the difference of populations 
 
 {%include Bikeper_person.html%}
 
-Interestingly if we try and look at how the ratios translate into bikes per person as displayed on the plot below and compares the to same number for cars based on an article by [TansportationAlternatives.org[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}, we see how little biking has been prioritized. According to the article there is 1.5 parking spots per car - That is more than one spot per single car!. When it comes to bikes the article tells a different story of there being 116 bikes per bike parking spot. Something which if we take into consideration that not everyone has a bike these numbers fit well with our own calculations of an average of 240 people per bike parking. 
+Interestingly if we try and look at how the ratios translate into bikes per person as displayed on the plot below and compares the to same number for cars based on an article named [The Power Of Bicycle Parking[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}, we see how little biking has been prioritized. According to the article there is 1.5 parking spots per car - That is more than one spot per single car!. When it comes to bikes the article tells a different story of there being 116 bikes per bike parking spot. Something which if we take into consideration that not everyone has a bike these numbers fit well with our own calculations of an average of 240 people per bike parking. 
 
 ![My image](/ratiobars.png)
 
@@ -74,15 +74,17 @@ So now we have delved into how the number of bike parkings have increased throug
 
 What we see in the above plot, apart from the interesting seasonal pattern of requests peaking in the summer, is that the requests are approaching 0. This could indicate that the infrastructure investments have suceeded in filling the needs of many cititzens and as such the need for more in-building parking is decreasing. As such, the infrastructure investments seem to be effective. There are of course many unknown variables within this that we have not been able to cover, such as changes in the request process, whether the amount of eligible buildings has been used up etc.
 
-If we look at other types of data, for example survey data and data on erected bicycle parking facilities, it tells a different story. In the article, [The Power Of Bicycle Parking[4]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}, Transportation Alternatives describes several interesting aspects 
+If we look back at other types of data, for example the survey data reviewed when looking at the ratios of bikes and cars to parking, it tells a different story. In the article, [[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}, Transportation Alternatives describes several interesting aspects 
 
 * Currently, there are over 100 times more car parking spaces than bicycle parking spaces, despite more residents owning bicycles than cars.
 * This lack of parking discourages people from cycling, with it being the second most common reason people don't bike more.
 * The deficit is especially impactful on low-income communities and communities of color, who are more likely to rely on bicycles for transportation and less likely to have access to secure storage.
 
-And as One founder and CEO Shabazz Stuart says in an interview for the article  [State Bike Survey Shows Demand for Secure Parking at Transit Hubs by Dave Clon for Streets Blog NYC[5]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
+And as One founder and CEO Shabazz Stuart says in an interview for the article [State Bike Survey Shows Demand for Secure Parking at Transit Hubs by Dave Clon for Streets Blog NYC[4]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
 
 *"It's not surprising, I don't know how much more data we need to reach the long overdue conclusion that secure and protected bike parking is essential to a viable cycling-as-transit ecosystem."*
+
+Another aspect is, that for an increase in bike parkings to make a difference it needs to be affordable. Something which is especially the case when considering how low-income areas are the ones the most in need of more space. [An article by the New York Times[5]](https://archive.nytimes.com/cityroom.blogs.nytimes.com/2010/02/23/you-can-park-your-bike-but-at-what-price/){:target="_blank"} reported that the bike parkings required by law in commercial car garages for every 10 cars came at a price *"nearly twice the cost of a monthly metro pass"*. Although the article is relatively old(2010) it still highlights a crucial aspect and bias in who can benefit from inititatives like policy changes if the bigger picture isn't taken into consideration.
 
 #### Final remarks
 It seems the transition to a bicycle-dominated infrastructure landscape is still an ongoing story with great variation within the districts of the Big Apple. When trying to explain why some areas are behind and others ahead, it appears as if social inequality and tourism has role to play. There is still much to be wished for from the citizens of New York, but lukily it seems as if we are moving in the rigth direction - More bicycles and more parking for them. The transition might seem inevitable as the city races to meet citizen demand, but as with all other development and investment, it is important that we are mindful of not leaving anyone behind. Luckily datasets such as the ones presented within this article can help us in getting an - if not better then at least differently biased - perspective, that allows us to tell another side of the story of cycling in New York. 
@@ -95,6 +97,6 @@ It seems the transition to a bicycle-dominated infrastructure landscape is still
 
 [Article [3]][TansportationAlternatives.org[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}
 
-[Article [4]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}
+[Article [4]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
 
-[Article [5]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
+[Article [5]](https://archive.nytimes.com/cityroom.blogs.nytimes.com/2010/02/23/you-can-park-your-bike-but-at-what-price/){:target="_blank"}
