@@ -36,7 +36,7 @@ When we try an look at the temporal trends in the data we also see something sup
 
 Another area we might use this data for, which the surveys don't provide, is to get a geospatial understanding of the development. 
 
-{% include Bike_counts.html %}
+XXXINCLUDE BIKE COUNT
 
 But as can be seen from confirmed from the above plot the counting stations are limited both in numbers, and locations, there are many areas which are completely void of counts. The data is therefore not very good for for doing these geospatial investigations that we want to do, and we must look elsewhere.
 
@@ -50,16 +50,20 @@ One thing is clear and that is that the number of bike parking possibilities has
 
 #### Bike parkings per person 
 The previous plots didn't take into consideration the difference of populations of each of the districts. To mitigate this the data the plot below has normalized the data in terms of the population of the individual district by looking at the parking per person. Here we clearly see that some areas have a much higher ratio of bike per person. With Lower side Manhatten and Upper and West brooklyn, having many times higher ratio of parkings per person. 
-{% include Bike_per_person.html %}
+
+
+XXXINCLUDE BIKE per personXXX 
 
 #### Bike crimes and the NYC
 Another interesting dimension is the geographical distribution of bicycle related crimes. Like for the amount of parking the number of bike theft is not nearly the same across town. We have analysed the number of reported bike crimes and how these are distributed in relation to the previous investigated districts. In the below plot, you can take a look at the different types of bicycle crime to see how they distribute themselves throughout the city. Try toggling the different types and see if you find anything interesting. Use the map to help in understanding how it distributes throughout the city. You might notice that some areas are overepresented. This begs the question whether these areas are just more crime stricken or that it might be because of lacking possibilities to find safe parking. Alternatively more streetside parking might also mean that bike theft is actually easiser as people are more prone to park their bikes on the streets where they can be potentially stolen. Or again there might just be that mamy more bikes in areas with proper bike parkings and therefore also many more stolen bikes.
 
-{% include crime_plot.html %}
+XXXXInclude bike crimeXXXX
 
 When we look at how the bike crimes distribute themselves geographically across the city seen on the map below, which shows the total number of crimes - that is Grand, petite and robberies combined. We see that it does look slightly familiar to the ones displaying the ratio of bike parking per person. Again whether this is due to more bikes in general or more bikes available for thieving due to outside parking is difficult to say.
 
-{% include Bike_theft.html %}
+XXXICLUDE CRIME MAPXXX
+
+
 
 #### Are the NYC bikers satisfied?
 So now we have delved into how the number of bike parkings have increased through recent years - but is it enough to satisfy the demand of New Yorkers? One way to investigate this is diving into the logs of requests made to the city for in-building bicycle parking. 
