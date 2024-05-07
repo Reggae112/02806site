@@ -3,6 +3,7 @@ layout: page
 title: Final Assignment
 permalink: /page2/
 ---
+![My image](/datavizfrontpage.png)
 
 #### Biking and the Big Apple
 New York has expressed governmental aspirations to transition into a city with a stronger focus on cycling infrastructure. However, gauging the success of this transition varies depending on the perspective. By analyzing city-collected data, we hope to shed light on the development of bicycle usage and infrastructure throughout this transition, uncovering both progress and areas needing improvement. We will go over both temporal and geospatial dimensions in this development to showcase all there is to know about the two-wheeled revolution. 
