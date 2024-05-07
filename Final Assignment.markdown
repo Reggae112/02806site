@@ -55,7 +55,7 @@ The previous plots didn't take into consideration the difference of populations 
 
 {%include Bikeper_person.html%}
 
-Interestingly if we try and look at how the ratios translate into bikes per person as displayed on the plot below and compares the to same number for cars based on an article named [The Power Of Bicycle Parking[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}, we see how little biking has been prioritized. According to the article there is 1.5 parking spots per car - That is more than one spot per single car!. When it comes to bikes the article tells a different story of there being 116 bikes per bike parking spot. Something which if we take into consideration that not everyone has a bike these numbers fit well with our own calculations of an average of 240 people per bike parking. 
+Interestingly if we try and look at how the ratios translate into bikes per person as displayed on the plot below and compares the to same number for cars based on an article named [The Power Of Bicycle Parking[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}, we see how little biking has been prioritized. According to the article there is 1.5 parking spots per car - That is more than one spot per single car! When it comes to bikes the article tells a different story of there being 116 bikes per bike parking spot. Something which if we take into consideration that not everyone has a bike these numbers fit well with our own calculations of an average of 240 people per bike parking. 
 
 ![My image](/ratiobars.png)
 
@@ -96,7 +96,7 @@ It seems the transition to a bicycle-dominated infrastructure landscape is still
 
 [Article [2]](https://www.tripadvisor.com/Attractions-g60763-Activities-c61-t214-New_York_City_New_York.html){:target="_blank"}{:rel="noopener noreferrer"}
 
-[Article [3]][TansportationAlternatives.org[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}
+[Article [3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}
 
 [Article [4]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
 
