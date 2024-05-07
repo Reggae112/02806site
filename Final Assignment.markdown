@@ -60,8 +60,8 @@ Another interesting dimension is the geographical distribution of bicycle relate
 
 When we look at how the bike crimes distribute themselves geographically across the city seen on the map below, which shows the total number of crimes - that is Grand, petite and robberies combined. We see that it does look slightly familiar to the ones displaying the ratio of bike parking per person. Again whether this is due to more bikes in general or more bikes available for thieving due to outside parking is difficult to say.
 
-XXXICLUDE CRIME MAPXXX
 
+{%include Biketheft.html%}
 
 
 #### Are the NYC bikers satisfied?
