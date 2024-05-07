@@ -36,7 +36,7 @@ When we try an look at the temporal trends in the data we also see something sup
 
 Another area we might use this data for, which the surveys don't provide, is to get a geospatial understanding of the development. 
 
-XXXINCLUDE BIKE COUNT
+{%include Bikecounts.html%}
 
 But as can be seen from confirmed from the above plot the counting stations are limited both in numbers, and locations, there are many areas which are completely void of counts. The data is therefore not very good for for doing these geospatial investigations that we want to do, and we must look elsewhere.
 
