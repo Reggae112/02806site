@@ -42,8 +42,7 @@ But as can be seen from confirmed from the above plot the counting stations are 
 
 #### Bike parking as a proxy for biking
 Luckily one of the other identified data sets provide us with a better opportunity to asses geospatial tendencies. The below map depicts the desitribution of new bike parking across the different districts of NYC. The data shows a timeseries from 2000 till now and allow us to see how the different districts of NYC has shaped their environments to better fit bikers.
-
-{% include Bike_parkings.html %}
+[Bike Parking map](/02806site/parking_map/){:target="_blank"}{:rel="noopener noreferrer"}
 
 Here we see how Brooklyn districts like Williamsburg and Brooklyn heights have established many times more bike parkings than say Riverdale, Bronx. One of the reasons for this could be that it has become increasingly more popular among tourists to go biking in lower Manhatten and around Brooklyn bridge, with an abundance of different companies providing guided tours along the East River [Survey Data](https://www.tripadvisor.com/Attractions-g60763-Activities-c61-t214-New_York_City_New_York.html){:target="_blank"}{:rel="noopener noreferrer"}. 
 
@@ -78,8 +77,6 @@ If we look at other types of data, for example survey data and data on erected b
 And as Oonee founder and CEO Shabazz Stuart says in an interview for the article  [State Bike Survey Shows Demand for Secure Parking at Transit Hubs by Dave Clon for Streets Blog NYC](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
 
 *"It's not surprising, I don't know how much more data we need to reach the long overdue conclusion that secure and protected bike parking is essential to a viable cycling-as-transit ecosystem."*
-
-
 
 #### Final remarks
 It seems the transition to a bicycle-dominated infrastructure landscape is still an ongoing story. As We have uncovered, the social inequality is something that shines through everything that takes place in the city, even with something as simple as the humble bicycle. There is still much to be wished for from the citizens of New York, but it is only going one way. More bicycles and more parking for them. the transition seems inevitable as the city races to meet citizen demand, but as with all other development and investment, it is important that we are mindful of not leaving anyone behind on account of their voice missing from the public debate. Luckily the data can help us in getting an, if not better then at least differently biased perspective to tell another side to the story of cycling in New York. 
