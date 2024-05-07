@@ -18,7 +18,7 @@ We are more than a little thrilled to be presenting our second assignment on thi
 [![Assignment 2 link](/Link_image.png)](/02806site/page1/)
 
 ## Even better News
-It seems like summer has made its arrival here in Denmark - the parks are filled to the brim with happy people playing games and going for walks, the birds are singing and the streets are flowing over with the pedestrians of copenhagen enjoying a well deserved but probably expensive beer. All the while this has been going on, we have been buried far away on another continent, deep within the open data of the city of New York, scrambling our way through rows and rows of bicycle data. Luckily for both us and you dear reader, we are now finished, and you can get to enjoy our lovely final assignment by clicking the image below, while we can finally partake in the celebration by cracking open a cold beer - alcohol free of course.
+It seems like summer has made its arrival here in Denmark - the parks are filled to the brim with happy people playing games and going for walks, the birds are singing and the streets are flowing over with the pedestrians of Copenhagen enjoying a well deserved but probably expensive beer. All the while this has been going on, we have been buried far away in another continent, deep within the open data of New York City. Luckily for both us and you dear reader, we are now finished, and you can get to enjoy our lovely final assignment by clicking the image below, while we can finally partake in the celebration by cracking open a cold beer - alcohol free of course.
 
 [![Final assignment link](/finallink.png)](/02806site/page2/)
 
