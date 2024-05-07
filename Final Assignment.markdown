@@ -24,7 +24,7 @@ If we begin by taking a look at the data collected from counting stations across
 There is however an interesting development of 3 consecutive years of negative development from 2016-2019. If we compare this to the intuitive notion that numbers like this would more likely be on a steady climb, it begs the question if there might be something that we are missing. 
 
 If we look at survey data, for example the one presented in
-[Survey Data](https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml){:target="_blank"}{:rel="noopener noreferrer"} we see that this development is not present. This source is based on the United States Decennial Census’ American Community Survey. In the data from the article displayed below, we see a steady growth, which could lead us to the idea that this trend might have more to do with the way the counting data was created than with the actual development of cyclists itself.
+[Survey Data [1]](https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml){:target="_blank"}{:rel="noopener noreferrer"} we see that this development is not present. This source is based on the United States Decennial Census’ American Community Survey. In the data from the article displayed below, we see a steady growth, which could lead us to the idea that this trend might have more to do with the way the counting data was created than with the actual development of cyclists itself.
 ![My image](/bicyling_city.PNG)
 
  Since counting stations are moved, infrastructure is changed (and as such the paths people chose) the bicycle counters become misrepresentative as a measure of the bicycle traffic within the city. If we look within the documentation for the report, we also find the description
@@ -45,7 +45,7 @@ Luckily one of the other identified data sets provide us with a better opportuni
 
 [Bike Parking map](/02806site/parking_map/){:target="_blank"}{:rel="noopener noreferrer"}
 
-Here we see how Brooklyn districts like Williamsburg and Brooklyn heights have established many times more bike parkings than say Riverdale, Bronx. One of the reasons for this could be that it has become increasingly more popular among tourists to go biking in lower Manhatten and around Brooklyn bridge, with an abundance of different companies providing guided tours along the East River [Survey Data](https://www.tripadvisor.com/Attractions-g60763-Activities-c61-t214-New_York_City_New_York.html){:target="_blank"}{:rel="noopener noreferrer"}. 
+Here we see how Brooklyn districts like Williamsburg and Brooklyn heights have established many times more bike parkings than say Riverdale, Bronx. One of the reasons for this could be that it has become increasingly more popular among tourists to go biking in lower Manhatten and around Brooklyn bridge, with an abundance of different companies providing guided tours along the East River [Survey Data[2]](https://www.tripadvisor.com/Attractions-g60763-Activities-c61-t214-New_York_City_New_York.html){:target="_blank"}{:rel="noopener noreferrer"}. 
 
 One thing is clear and that is that the number of bike parking possibilities has increaed over time. If you hover the mouse over a specific district the plot displays the name of the neighbourhood and the exact number of parkings established since 2000. This plot shows us that the investment in infrastructure is steadily rising, but is far from evenly distributed. Especially less affluent areas see little development compared to the high number of residents. 
 
@@ -54,7 +54,8 @@ The previous plots didn't take into consideration the difference of populations 
 
 {%include Bikeper_person.html%}
 
-One interesting point is that if we try and look at how the ratios translate into bikes per person as displayed on the plot below and compares the to same number for cars which based on an article by [TansportationAlternatives.org](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"} is 1.5 parking spots per car - That is more than one spot per single car!. The article states that the number of parkings spots per bike is 116. If we take into consideration that not everyone has a bike these numbers fit well with our own calculations of an average of 240 people per bike parking. 
+Interestingly if we try and look at how the ratios translate into bikes per person as displayed on the plot below and compares the to same number for cars based on an article by [TansportationAlternatives.org[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}, we see how little biking has been prioritized. According to the article there is 1.5 parking spots per car - That is more than one spot per single car!. When it comes to bikes the article tells a different story of there being 116 bikes per bike parking spot. Something which if we take into consideration that not everyone has a bike these numbers fit well with our own calculations of an average of 240 people per bike parking. 
+
 ![My image](/ratiobars.png)
 
 #### Bike crimes and the NYC
@@ -62,11 +63,9 @@ Another interesting dimension is the geographical distribution of bicycle relate
 
 {%include crimeplot.html%}
 
-When we look at how the bike crimes distribute themselves geographically across the city seen on the map below, which shows the total number of crimes - that is Grand, petite and robberies combined. We see that it does look slightly familiar to the ones displaying the ratio of bike parking per person. Again whether this is due to more bikes in general or more bikes available for thieving due to outside parking is difficult to say.
-
+When we look at how the bike crimes distribute themselves geographically across the city seen on the map below, which shows the total number of crimes combined. We see that it does look slightly familiar to the ones displaying the ratio of bike parking per person. Again whether this is due to more bikes in general or more bikes available for thieving due to outside parking is difficult to say.
 
 {%include Biketheft.html%}
-
 
 #### Are the NYC bikers satisfied?
 So now we have delved into how the number of bike parkings have increased through recent years - but is it enough to satisfy the demand of New Yorkers? One way to investigate this is diving into the logs of requests made to the city for in-building bicycle parking. 
@@ -75,32 +74,27 @@ So now we have delved into how the number of bike parkings have increased throug
 
 What we see in the above plot, apart from the interesting seasonal pattern of requests peaking in the summer, is that the requests are approaching 0. This could indicate that the infrastructure investments have suceeded in filling the needs of many cititzens and as such the need for more in-building parking is decreasing. As such, the infrastructure investments seem to be effective. There are of course many unknown variables within this that we have not been able to cover, such as changes in the request process, whether the amount of eligible buildings has been used up etc.
 
-If we look at other types of data, for example survey data and data on erected bicycle parking facilities, it tells a different story. In the article, [The Power Of Bicycle Parking](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}, Transportation Alternatives describes several interesting aspects 
+If we look at other types of data, for example survey data and data on erected bicycle parking facilities, it tells a different story. In the article, [The Power Of Bicycle Parking[4]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}, Transportation Alternatives describes several interesting aspects 
 
 * Currently, there are over 100 times more car parking spaces than bicycle parking spaces, despite more residents owning bicycles than cars.
 * This lack of parking discourages people from cycling, with it being the second most common reason people don't bike more.
 * The deficit is especially impactful on low-income communities and communities of color, who are more likely to rely on bicycles for transportation and less likely to have access to secure storage.
 
-And as Oonee founder and CEO Shabazz Stuart says in an interview for the article  [State Bike Survey Shows Demand for Secure Parking at Transit Hubs by Dave Clon for Streets Blog NYC](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
+And as One founder and CEO Shabazz Stuart says in an interview for the article  [State Bike Survey Shows Demand for Secure Parking at Transit Hubs by Dave Clon for Streets Blog NYC[5]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
 
 *"It's not surprising, I don't know how much more data we need to reach the long overdue conclusion that secure and protected bike parking is essential to a viable cycling-as-transit ecosystem."*
 
 #### Final remarks
-It seems the transition to a bicycle-dominated infrastructure landscape is still an ongoing story. As We have uncovered, the social inequality is something that shines through everything that takes place in the city, even with something as simple as the humble bicycle. There is still much to be wished for from the citizens of New York, but it is only going one way. More bicycles and more parking for them. the transition seems inevitable as the city races to meet citizen demand, but as with all other development and investment, it is important that we are mindful of not leaving anyone behind on account of their voice missing from the public debate. Luckily the data can help us in getting an, if not better then at least differently biased perspective to tell another side to the story of cycling in New York. 
+It seems the transition to a bicycle-dominated infrastructure landscape is still an ongoing story with great variation within the districts of the Big Apple. When trying to explain why some areas are behind and others ahead, it appears as if social inequality and tourism has role to play. There is still much to be wished for from the citizens of New York, but lukily it seems as if we are moving in the rigth direction - More bicycles and more parking for them. The transition might seem inevitable as the city races to meet citizen demand, but as with all other development and investment, it is important that we are mindful of not leaving anyone behind. Luckily datasets such as the ones presented within this article can help us in getting an - if not better then at least differently biased - perspective, that allows us to tell another side of the story of cycling in New York. 
 
 #### Reference Links
 
-[Article [1]](https://hoodline.com/2024/03/san-francisco-man-convicted-for-sexual-assault-of-elderly-woman-faces-up-to-10-years/){:target="_blank"}{:rel="noopener noreferrer"}
+[Article [1]](https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml){:target="_blank"}{:rel="noopener noreferrer"}
 
-[Article [2]](https://www.cbsnews.com/sanfrancisco/news/san-francisco-man-horrific-child-sexual-assault-facing-50-years-to-life/){:target="_blank"}{:rel="noopener noreferrer"}
+[Article [2]](https://www.tripadvisor.com/Attractions-g60763-Activities-c61-t214-New_York_City_New_York.html){:target="_blank"}{:rel="noopener noreferrer"}
 
-[Article [3]](https://sfist.com/2015/11/24/sf_state_officials_refuse_to_commen/){:target="_blank"}{:rel="noopener noreferrer"}
+[Article [3]][TansportationAlternatives.org[3]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}{:rel="noopener noreferrer"}
 
-[Article [4]](https://www.eastbaytimes.com/2016/10/23/bay-area-colleges-keep-most-sexual-assault-reports-quiet/){:target="_blank"}{:rel="noopener noreferrer"}
+[Article [4]](https://transalt.org/reports-list/the-power-of-bicycle-parking){:target="_blank"}
 
-[Article [5]](https://sfstandard.com/2022/12/08/san-francisco-neighborhood-new-census-data-maps/){:target="_blank"}{:rel="noopener noreferrer"}
-
-[Article [6]](https://www.sftravel.com/article/best-streets-bar-hopping-san-francisco){:target="_blank"}{:rel="noopener noreferrer"}
-
-[Article [7]](https://sfgov.org/dosw/sites/default/files/Safer%20Schools%20Sexual%20Assault%20Task%20Force%20Report.pdf){:target="_blank"}{:rel="noopener noreferrer"}
-
+[Article [5]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
