@@ -101,3 +101,7 @@ It seems the transition to a bicycle-dominated infrastructure landscape is still
 [Article [4]](https://nyc.streetsblog.org/2022/05/05/state-bike-survey-shows-demand-for-secure-parking-at-transit-stations){:target="_blank"}
 
 [Article [5]](https://archive.nytimes.com/cityroom.blogs.nytimes.com/2010/02/23/you-can-park-your-bike-but-at-what-price/){:target="_blank"}
+
+#### Explainer notebook
+All the background knowledge relating to the article can be found in the explainer notebook by following the link below
+[1]:{{https://reggae112.github.io/02806site/}}Explainer notebook.ipynb
