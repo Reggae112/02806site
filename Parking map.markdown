@@ -5,4 +5,4 @@ permalink: /parking_map/
 
 ---
 
-{% include Bike_parking.html %}
+{% include Bike_parkings.html %}
