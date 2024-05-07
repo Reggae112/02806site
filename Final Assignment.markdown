@@ -104,4 +104,4 @@ It seems the transition to a bicycle-dominated infrastructure landscape is still
 
 #### Explainer notebook
 All the background knowledge relating to the article can be found in the explainer notebook by following the link below
-[1]:{{https://reggae112.github.io/02806site/}}Explainer notebook.ipynb
+[Explainer notebook](/Explainer notebook.ipynb){:target="_blank"}
